@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family:Tahoma">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip" >
+  <a href="http://mediapub.ir/product/1/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-clean-architecture" >
   &#x202b; 
 آموزش Clean Architecture
   </a>
@@ -11,9 +11,12 @@
 دوره آموزش Clean Architecture در Asp net core
 </h4>
  
-
-  [![معرفی دوره](http://img.youtube.com/vi/Ux8EBatdjxE/0.jpg)](http://www.youtube.com/watch?v=Ux8EBatdjxE "معرفی دوره آموزش Clean Architecture")
-
+<p align="center">
+  <a href="http://www.youtube.com/watch?v=Ux8EBatdjxE">
+<img src="http://img.youtube.com/vi/Ux8EBatdjxE/0.jpg"/>
+    </a>
+ </p>
+  
 <p align="right">
   &#x202b;• <a href="#whatisca">Clean Architecture چیست؟</a><br>
   &#x202b;• <a href="#contributing">&#x202b;سرفصل دوره</a>   <br>
@@ -144,6 +147,9 @@
 </p>
 </tr>
 </table>
+
+## [مشاهده جزئیات و دانلود دوره](http://mediapub.ir/product/1/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-clean-architecture)
+
 <p align="center">
 <img src="https://files.virgool.io/upload/users/31628/posts/gqkuvedonr29/lmbshtfeuubm.png"/>
  </p>
