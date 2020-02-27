@@ -8,7 +8,11 @@
 
 <h4 align="center">
   &#x202b; 
-دوره آموزش Clean Architecture در Asp net core
+دوره آموزش Clean Architecture 
+</h4>
+<h4 align="center">
+  &#x202b; 
+دوره آموزش Asp net Core 
 </h4>
  
 <p align="center">
@@ -19,10 +23,13 @@
   
 <p align="right">
   &#x202b;• <a href="#whatisca">Clean Architecture چیست؟</a><br>
+    &#x202b;• <a href="#donate">&#x202b;این دوره به درد چه کسانی می خورد؟</a>  <br>
+    &#x202b;• <a href="#support">&#x202b;پیش نیاز دوره چیست؟</a>  <br>
+    &#x202b;• <a href="#author">&#x202b;آموزش Asp Core در این دوره وجود دارد؟</a>   <br>
   &#x202b;• <a href="#contributing">&#x202b;سرفصل دوره</a>   <br>
-  &#x202b;• <a href="#author">&#x202b;آموزش Asp Core در این دوره انجام میشود؟</a>   <br>
-  &#x202b;• <a href="#support">&#x202b;پیش نیاز دوره چیست؟</a>  <br>
-  &#x202b;• <a href="#donate">&#x202b;این دوره به درد چه کسانی می خورد؟</a>  <br>
+  &#x202b;• <a href="#contributing">&#x202b;درباره بخش اشتراکی</a>   <br>
+
+
 </p>
 
 ---
@@ -48,7 +55,7 @@
 </tr></table>
 
 ---
-<p align="right">
+<p align="right" style="font-weight:bold">
 &#x202b; ✍️این دوره به درد چه کسانی می‌خورد؟
 </p>
 <table><tr>
@@ -104,7 +111,12 @@
 </p>
 </tr>
 </table>
-
+<p align="center">
+  <a href="http://www.youtube.com/watch?v=ueY_yg1qeZU">
+<img src="http://img.youtube.com/vi/ueY_yg1qeZU/0.jpg"/>
+    </a>
+ </p>
+ 
 ---
 <p align="right">
 &#x202b; ✍️سرفصل دوره
