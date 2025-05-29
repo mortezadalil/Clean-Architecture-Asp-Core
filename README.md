@@ -160,7 +160,7 @@
 </tr>
 </table>
 
-## [مشاهده جزئیات و دانلود دوره](http://mediapub.ir/product/1/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-clean-architecture)
+## [مشاهده دوره]([http://mediapub.ir/product/1/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-clean-architecture](https://youtube.com/playlist?list=PLyFg6Iua5MRkkmAPTF3-6RAW36rPYy9Qq&si=o2xxx2IckKQadVPR))
 
 <p align="center">
 <img src="https://files.virgool.io/upload/users/31628/posts/gqkuvedonr29/lmbshtfeuubm.png"/>
